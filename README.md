@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jay%20Song&fontSize=100&animation=fadeIn&fontAlign=70)
 
 <!--
 **x0ng120x/x0ng120x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
