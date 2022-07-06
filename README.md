@@ -4,7 +4,7 @@
 
 ## 😎 Who am I 😎
 <p>
-  👋 Hi there! I'm currently student of SFU majoring in CS.<br/>
+  👋 Hi there! I'm currently a student of SFU majoring in CS.<br/>
   I wanna be a backend developer or study AI further more 🤖<br/>
   
   I enjoy rock climbing, and mingling with new people 🧗‍♂️<br/>
