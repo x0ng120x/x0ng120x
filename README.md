@@ -5,14 +5,12 @@
 ## 😎 Who am I 😎
 <p>
   👋 Hi there! I'm currently student of SFU majoring in CS.<br/>
-  I wanna be a developer or study AI further more 🤖<br/>
+  I wanna be a backend developer or study AI further more 🤖<br/>
   
   I enjoy rock climbing, and mingling with new people 🧗‍♂️<br/>
   I'm gonna be the best developer in the world!<br/>
 </p>
 <br/>
-  
-<div align="center">
 
 ## 💻 Tech Stacks 💻
 
